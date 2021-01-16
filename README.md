@@ -1,5 +1,5 @@
 # Setup-Script
-A basic script top get a new Windows PC up and running with a few essential programms
+A basic script to get a new Windows PC up and running with a few essential programms
 
 ## Getting started:
 
