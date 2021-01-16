@@ -17,8 +17,6 @@ A basic script top get a new Windows PC up and running
 ### Optional:
 - iTunes (Apple iTunes for Windows)
 - Zoom (meeting programm)
-- Davinci Resolve (video editor)
-- MSI Afterburner (MSI tool for overclocking)
 - Python 3 (Python programming language)
 - Visual Sudio Code (text editor)
 - Node.js (Javascript runtime)
