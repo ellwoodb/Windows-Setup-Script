@@ -16,12 +16,7 @@ A basic script top get a new Windows PC up and running
 
 ### Optional:
 - iTunes (Apple iTunes for Windows)
-- BuleStacks (phone emulator)
 - Zoom (meeting programm)
-- Razer Synapse (Razer software)
-- Logitech GHub (Logitech gaming software)
-- MSI Live Update (MSI tool to install drivers)
-- Nvidia GForce Experience (Nvidia tool to install drivers)
 - Davinci Resolve (video editor)
 - MSI Afterburner (MSI tool for overclocking)
 - Python 3 (Python programming language)
