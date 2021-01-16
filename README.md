@@ -15,7 +15,6 @@ A basic script top get a new Windows PC up and running
 - OBS (recording programm)
 
 ### Optional:
-- Discord PBT (pbt version of Discord)
 - iTunes (Apple iTunes for Windows)
 - BuleStacks (phone emulator)
 - Zoom (meeting programm)
