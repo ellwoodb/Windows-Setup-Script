@@ -13,8 +13,7 @@ A basic script top get a new Windows PC up and running
 - GOG Galaxy (game launcher)
 - Epic Games (game service)
 - WhatsApp Web (desktop client for WhatsApp)
-- Git (terminal tool for Github)
-- Streamlabs OBS (recording programm)
+- OBS (recording programm)
 
 ### Optional:
 - Discord PBT (pbt version of Discord)
