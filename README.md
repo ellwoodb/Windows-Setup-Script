@@ -33,3 +33,6 @@ Please download the program here:
 
 ### ToDo:
 - Fix installation with Chrome
+
+### Important:
+Please note, that I'm not responsible for any errors, that might occur using this script.
