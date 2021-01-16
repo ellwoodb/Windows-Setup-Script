@@ -21,6 +21,5 @@ A basic script top get a new Windows PC up and running
 - Visual Sudio Code (text editor)
 - Node.js (Javascript runtime)
 - Windows Terminal (terminal)
-- Ron's Editor (editor for .csv tabels)
 - Git (terminal tool for Github)
 - Blender (3D programm)
