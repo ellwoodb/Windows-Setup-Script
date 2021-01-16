@@ -10,7 +10,6 @@ A basic script top get a new Windows PC up and running
 - Discord (chat programm)
 - Paint.NET (drawing/image manipulation programm)
 - Steam (game service)
-- Java 8 (Jave runtime)
 - GOG Galaxy (game launcher)
 - Epic Games (game service)
 - WhatsApp Web (desktop client for WhatsApp)
