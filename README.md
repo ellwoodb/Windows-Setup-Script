@@ -1,11 +1,19 @@
-# Windows-Setup-Script
-A basic script top get a new Windows PC up and running
+   _____      _                  _____           _       _   
+  / ____|    | |                / ____|         (_)     | |  
+ | (___   ___| |_ _   _ _ __   | (___   ___ _ __ _ _ __ | |_ 
+  \___ \ / _ \ __| | | | '_ \   \___ \ / __| '__| | '_ \| __|
+  ____) |  __/ |_| |_| | |_) |  ____) | (__| |  | | |_) | |_ 
+ |_____/ \___|\__|\__,_| .__/  |_____/ \___|_|  |_| .__/ \__|
+                       | |                        | |        
+                       |_|                        |_|        
+
+# Setup-Script
+A basic script top get a new Windows PC up and running with a few essential programms
 
 ## Programms it installs:
 
 ### Programms:
-- Chrome (webbrowser)
-- Firefox (backup webbrowser)
+- Firefox (webbrowser)
 - 7-Zip (compression programm)
 - Discord (chat programm)
 - Paint.NET (drawing/image manipulation programm)
@@ -17,9 +25,8 @@ A basic script top get a new Windows PC up and running
 ### Optional:
 - iTunes (Apple iTunes for Windows)
 - Zoom (meeting programm)
-- Python 3 (Python programming language)
 - Visual Sudio Code (text editor)
-- Node.js (Javascript runtime)
-- Windows Terminal (terminal)
-- Git (terminal tool for Github)
 - Blender (3D programm)
+
+### ToDo:
+- Fix installation with Chrome
