@@ -120,3 +120,13 @@ if install_blender.lower() == "y":
 else:
     print("Not installing Blender.")
 time.sleep(1)
+
+install_powertoys = input("Do you want to install Powertoys (Y/N)?")
+time.sleep(1)
+if install_powertoys.lower() == "y":
+    print("Installing Powertoys now...")
+    time.sleep(1)
+    os.system("choco install -y powertoys")
+else:
+    print("Not installing Powertoys.")
+time.sleep(1)
