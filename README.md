@@ -31,7 +31,7 @@ Please download the program here:
 - Visual Sudio Code (text editor)
 - Blender (3D programm)
 - Powertoys (general utility programm)
-- Voicemeeter Banana (soudmixing programm)
+- Voicemeeter Banana (soud mixing program)
 
 ### ToDo:
 - Fix installation with Chrome
