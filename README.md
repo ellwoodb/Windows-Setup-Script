@@ -30,8 +30,8 @@ Please download the program here:
 - Zoom (meeting programm)
 - Visual Sudio Code (text editor)
 - Blender (3D programm)
-- Powertoys (general utility programm)
-- Voicemeeter Banana (soud mixing program)
+- Powertoys (general utility program)
+- Voicemeeter Banana (sound mixing program)
 
 ### ToDo:
 - Fix installation with Chrome
