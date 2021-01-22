@@ -30,6 +30,7 @@ Please download the program here:
 - Zoom (meeting programm)
 - Visual Sudio Code (text editor)
 - Blender (3D programm)
+- Powertoys (general utility programm)
 
 ### ToDo:
 - Fix installation with Chrome
