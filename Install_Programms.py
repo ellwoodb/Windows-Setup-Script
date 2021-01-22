@@ -130,3 +130,13 @@ if install_powertoys.lower() == "y":
 else:
     print("Not installing Powertoys.")
 time.sleep(1)
+
+install_voicemeeter = input("Do you want to install Voicemeeter (Y/N)?")
+time.sleep(1)
+if install_voicemeeter.lower() == "y":
+    print("Installing Voicemeeter now...")
+    time.sleep(1)
+    os.system("choco install -y voicemeeter-banana")
+else:
+    print("Not installing Voicemeeter.")
+time.sleep(1)
