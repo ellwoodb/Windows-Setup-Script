@@ -19,11 +19,11 @@ Please download the program here:
 - Firefox (webbrowser)
 - 7-Zip (compression programm)
 - Discord (chat programm)
-- Paint.NET (drawing/image manipulation programm)
+- Paint.NET (drawing/image manipulation program)
 - Steam (game service)
 - Epic Games (game service)
 - WhatsApp Web (desktop client for WhatsApp)
-- OBS (recording programm)
+- OBS (recording program)
 
 ### Optional:
 - iTunes (Apple iTunes for Windows)
