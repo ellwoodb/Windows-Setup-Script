@@ -1,5 +1,17 @@
 # Setup-Script
-A basic script top get a new Windows PC up and running with a few essential programms
+A basic script to get a new Windows PC up and running with a few essential programms
+
+## Getting started:
+
+### Download:
+Please download the program here:
+[Releases](https://github.com/ellwoodb/Windows-Setup-Script/releases)
+
+### Installation
+1. Unzip the two .exe files
+2. First start the "Install_Chocolatley.exe" and let it install
+3. Second start the "Install_Programms.exe" and let it install
+4. You are done!
 
 ## Programms it installs:
 
@@ -21,3 +33,6 @@ A basic script top get a new Windows PC up and running with a few essential prog
 
 ### ToDo:
 - Fix installation with Chrome
+
+### Important:
+Please note, that I'm not responsible for any errors, that might occur using this script.
