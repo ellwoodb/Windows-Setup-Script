@@ -28,7 +28,7 @@ Please download the program here:
 ### Optional:
 - iTunes (Apple iTunes for Windows)
 - Zoom (meeting programm)
-- Visual Sudio Code (text editor)
+- Visual Studio Code (text editor)
 - Blender (3D programm)
 - Powertoys (general utility program)
 - Voicemeeter Banana (sound mixing program)
