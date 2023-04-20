@@ -1,6 +1,9 @@
 # Setup-Script
 A basic script to get a new Windows PC up and running with a few essential programms
 
+## Disclaimer:
+Since winget is a thing this is propably not for you anymore. If you want to create packs of apps you can use [winstall](https://winstall.app/)
+
 ## Getting started:
 
 ### Download:
